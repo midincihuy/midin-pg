@@ -1,5 +1,5 @@
 <?php
-namespace Midincihuy\MidinPg;
+namespace Midincihuy;
 
 class MidinPg
 {
