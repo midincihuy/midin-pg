@@ -14,7 +14,7 @@
     ],
     "autoload": {
         "psr-4" : {
-            "Midincihuy\\MidinPg" : "src"
+            "Midincihuy\\MidinPg\\" : "src"
         }
     }
 }
