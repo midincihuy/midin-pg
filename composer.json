@@ -2,7 +2,7 @@
     "name": "midincihuy/midin-pg",
     "description": "Midincihuy Payment Gateway Library",
     "require": {
-        "php": "^5.3.3 || ^7.0",
+        "php": "^5.3.3 || ^7.0"
     },
     "homepage": "https://github.com/midincihuy/midin-pg",
     "authors": [
